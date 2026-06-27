@@ -1,0 +1,5 @@
+# node_modules պանակը
+node_modules/
+
+# .env ֆայլը
+.env
